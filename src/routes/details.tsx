@@ -129,7 +129,7 @@ function DetailsPage() {
       <div className="corner-ornament tr" style={{ opacity: 0.12 }}>❧</div>
 
       <h1 className="details-title">The Details</h1>
-      <p className="details-subtitle">everything you need to know, my love</p>
+      <p className="details-subtitle">everything you need to know </p>
 
       <div className="details-card">
         <div className="details-card-header">
