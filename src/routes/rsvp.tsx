@@ -71,13 +71,13 @@ function RsvpPage() {
       <div className="corner-ornament tr" style={{ opacity: 0.12 }}>❧</div>
 
       <h1 className="rsvp-title">So, what do you say?</h1>
-      <p className="rsvp-subtitle">the moment of truth, mi amor</p>
+      <p className="rsvp-subtitle">the moment of truth!!</p>
 
       <button
         className="rsvp-yes-btn"
         onClick={() => navigate({ to: '/yay' })}
       >
-        YES OF COURSE
+        Yes of course!
       </button>
 
       <p className="rsvp-divider">— or —</p>
