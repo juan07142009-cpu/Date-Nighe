@@ -87,7 +87,7 @@ function DetailsPage() {
       icon: <MapPinIcon />,
       label: 'Dinner',
       value: 'A Taste of Peru',
-      sub: 'An evening to remember',
+      sub: ':)',
       delay: '0.5s',
     },
     {
@@ -101,7 +101,7 @@ function DetailsPage() {
       icon: <ShirtIcon />,
       label: 'Dress Code',
       value: 'Casual & Cute',
-      sub: 'Nice jeans & a comfy top — just be you',
+      sub: 'Ille be wearing jeans and a t-shirt so something comfy :)',
       delay: '0.7s',
     },
   ]
